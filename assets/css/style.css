@@ -1,0 +1,10 @@
+
+.navbar-brand img, footer img{
+width: 5rem;
+}
+
+.album {
+    display: flex;
+    justify-content: space-around
+}
+
